@@ -1,0 +1,1 @@
+export const SAVE_AN_EXPENSE = 'SAVE_AN_EXPENSE';
